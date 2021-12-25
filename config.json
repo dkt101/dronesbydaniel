@@ -1,5 +1,5 @@
 {
-  "input": "./gallery",
+  "input": "./gallery/Gallery",
   "output": "./build_output",
   "title": "dronesByDaniel - Portfolio",
   "sort-albums-by": "title",

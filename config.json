@@ -10,4 +10,6 @@
   "theme-style": "./custom.css",
   "footer": "Copyright D.G. Knopp",
   "usage-stats": false
+  "embed-exif": TRUE
+
 }
